@@ -1,0 +1,181 @@
+body {
+  font-family: 'poppins', sans-serif;
+  margin: 0;
+}
+
+
+.navbar{
+    display: flex;
+    padding-left: 170px;
+    padding-top: 35px;
+    gap: 200px;
+}
+
+.nav-menu {
+    display: flex;
+    gap: 20px;
+    padding-top: 20px;
+    list-style: none;
+}
+
+.nav-menu li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;    
+}
+
+.nav-menu li a:hover,
+.nav-menu li a.active {
+  color: #00bcd4;
+}
+
+.kkkk{
+ padding-left: 180px;
+    padding-top: 20px;
+}
+
+.card-1{
+    padding-left: 180px;
+    padding-top: 20px;
+    gap: 20px;
+}
+
+.card-2 p{
+    width: 300px;
+    font-size: 12px;
+    padding-top: 10px;
+}
+.card-2 p:hover{
+  color: #00bcd4
+}
+
+.card-2 h6{
+    width: 300px;
+    font-weight: 100;
+}
+
+.llll img{
+    display: block;
+}
+.llll{
+  margin-top: -70px;
+}
+
+
+.oooo  {
+    color: #00bcd4;
+    display:flex;
+    gap: 20px;
+}
+
+.oooo  :hover{
+color:black;
+}
+
+.wwww{
+    display: flex;
+    gap: 30px;
+}
+ 
+.card-10 {
+  display: flex;
+  margin-inline-start: 30px;
+}
+
+.services-listl {
+    margin-top: -80px;
+  padding-left: 100px;
+  display: flex;
+  font-size:14px;
+  width: 2000px;
+  color: #00bcd4;
+}
+
+.card-10 ul
+ :hover{
+  color: black; 
+}
+
+.card-10 li {
+  list-style: none;
+}
+
+.services-listll {  
+  display: flex;
+  font-size: 14px;
+  
+  color: #00bcd4;
+}
+
+.circle{
+  border: 2px solid black;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;  
+}
+.circle:hover{
+  background-color: #00bcd4;
+}
+
+.to {
+  display: flex;
+  gap: 15px;
+}
+.good {
+  padding-left: 160px;
+}
+.good h5 {
+  font-weight: 100;
+  opacity: 0.7;
+}
+
+
+.good p {
+  width: 650px;
+  opacity: 0.5;
+  
+}
+.good h5:hover{
+  color: #00bcd4;
+}
+.warm img{
+  position: fixed;
+  bottom: 20px;
+  right:20px;
+  z-index: 1;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  margin-inline-start: 1179px;
+}
+.warm p{
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+  width: 180px;
+
+  margin-inline-start: 1000px;
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.footer {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color:#e6e9ea;
+  font-size: 13px;
+  padding-left: 150px;
+  opacity: 0.7;
+}
+.footer a{
+  text-decoration: none;
+  color: black;
+  
+}
+.footer a:hover{
+  color:#00bcd4;
+}
